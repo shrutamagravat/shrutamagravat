@@ -29,7 +29,7 @@
 
 ⚡I am passionate about collaborating with cross-functional teams, mentoring junior developers, and contributing to innovative projects that drive business success. My strong foundation in MERN Stack especially in ReactJS, NextJS, .NET Core, SQL, and cloud technologies such as AWS, Azure enables me to deliver secure, scalable, and impactful solutions.
 
-How to reach me: <a href="https://www.linkedin.com/in/shrutam-agravat-bb5463188">
+How to reach me: <a href="https://www.linkedin.com/in/shrutamagravat">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
