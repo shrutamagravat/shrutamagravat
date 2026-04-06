@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-🔭As a passionate and results-driven Software Engineer, I specialize in designing and delivering scalable, high-performance applications using a diverse range of technologies, including ReactJS, Node.js, Redux,NextJS, .NET Core, .NET Framework, Java, J2EE, SQL, and cloud platforms like AWS and Azure. With over 3 years of professional experience, I thrive on solving real-world challenges and creating exceptional user experiences.
+🔭As a passionate and results-driven Software Engineer, I specialize in designing and delivering scalable, high-performance applications using a diverse range of technologies, including ReactJS, Node.js, Redux,NextJS, .NET Core, .NET Framework, Java, J2EE, SQL, and cloud platforms like AWS and Azure. With over 4 years of professional experience, I thrive on solving real-world challenges and creating exceptional user experiences.
 
 🔭Throughout my career, I have:
 - Built dynamic and responsive web applications, utilizing frameworks like Next.js, Material-UI, and Redux to craft seamless and intuitive user interfaces.
