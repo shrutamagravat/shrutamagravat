@@ -14,20 +14,15 @@
 
 ### :man_technologist: About Me :
 
-🔭As a passionate and results-driven Software Engineer, I specialize in designing and delivering scalable, high-performance applications using a diverse range of technologies, including ReactJS, Node.js, Redux,NextJS, .NET Core, .NET Framework, Java, J2EE, SQL, and cloud platforms like AWS and Azure. With over 4 years of professional experience, I thrive on solving real-world challenges and creating exceptional user experiences.
+I build software that owns its outcomes — not just application code, but the APIs, infrastructure, and production systems behind it.
 
-🔭Throughout my career, I have:
-- Built dynamic and responsive web applications, utilizing frameworks like Next.js, Material-UI, and Redux to craft seamless and intuitive user interfaces.
-- Designed and implemented robust microservices architectures and APIs using Node.js, .NET Core, and Java, ensuring scalability and fault tolerance.
-- Developed and optimized SQL databases and backend systems, significantly improving query performance and system reliability.
-- Migrated and deployed applications to AWS and Azure using Docker, enabling seamless scalability and reducing deployment time by 30%.
+Over 3+ years I've delivered full-stack .NET Core and React applications deployed on Azure, with a focus on scalable microservices architecture, RESTful API design, and SQL Server performance. I've migrated legacy systems, containerised services with Docker, and held 99.9% uptime across production deployments.
 
-🔭My professional journey includes notable projects like:
-- Building a client onboarding platform for wealth management, leveraging ReactJS, Node.js, and Azure KeyVault for secure authentication and data protection.
-- Developing an inventory management system using .NET Framework and SQL, integrating advanced analytics and reducing data retrieval latency by 30%-40%.
-- Implementing an AI-driven crypto news generator using Node.js, OpenAI API, and MongoDB, providing actionable insights with sentiment analysis.
+I'm currently extending into IoT data ingestion and Linux server operations — building device-facing .NET Core APIs connected to Azure IoT Hub and deployed on Ubuntu with Nginx. I'm drawn to hardware-adjacent software roles where decisions made at the API layer have direct consequences for devices and customers in the real world.
 
-⚡I am passionate about collaborating with cross-functional teams, mentoring junior developers, and contributing to innovative projects that drive business success. My strong foundation in MERN Stack especially in ReactJS, NextJS, .NET Core, SQL, and cloud technologies such as AWS, Azure enables me to deliver secure, scalable, and impactful solutions.
+Core stack: C# / .NET Core · React · MS SQL Server · Docker · Azure · REST APIs · JSON data flows · Linux/Ubuntu
+
+Currently based in Toronto, ON. Open to full-time roles (on-site, hybrid, or remote).
 
 How to reach me: <a href="https://www.linkedin.com/in/shrutamagravat">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
