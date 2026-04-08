@@ -18,11 +18,11 @@ I build software that owns its outcomes — not just application code, but the A
 
 Over 3+ years I've delivered full-stack .NET Core and React applications deployed on Azure, with a focus on scalable microservices architecture, RESTful API design, and SQL Server performance. I've migrated legacy systems, containerised services with Docker, and held 99.9% uptime across production deployments.
 
-I'm currently extending into IoT data ingestion and Linux server operations — building device-facing .NET Core APIs connected to Azure IoT Hub and deployed on Ubuntu with Nginx. I'm drawn to hardware-adjacent software roles where decisions made at the API layer have direct consequences for devices and customers in the real world.
+I'm currently extending into IoT data ingestion and Linux server operations — building device-facing .NET Core APIs connected to Azure IoT Hub and deployed on Ubuntu with Nginx. I'm drawn to hardware-adjacent software roles where decisions made at the API layer have direct consequences for devices and customers in the real world.Strong experience in microservices and distributed systems on cloud platforms (with working knowledge of Azure, AWS services such as EC2, S3, and RDS)
 
 Core stack: C# / .NET Core · React · MS SQL Server · Docker · Azure · REST APIs · JSON data flows · Linux/Ubuntu
 
-Currently based in Toronto, ON. Open to full-time roles (on-site, hybrid, or remote).
+Open to full-time roles (on-site, hybrid, or remote).
 
 How to reach me: <a href="https://www.linkedin.com/in/shrutamagravat">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
